@@ -5,7 +5,7 @@ Analyzed factors influencing diamond prices using Python and Jupyter Notebook. C
 
 A data analysis project exploring factors affecting diamond prices to provide insights into pricing strategies.
 
-##Table of Contents
+## Table of Contents
 
 -Overview
 
